@@ -55,7 +55,7 @@ const Nav = () => {
         <h5  className ="nav-link dropdown active"  id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Company
           </h5>
-          <ul id = 'kaka' className ="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+          <ul  className ="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
             <li>   <Link href="/about-us"><a type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" className ="dropdown-item">About Us</a></Link>                                                 </li>
                   
             <li> <Link href="/careers"><a type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" className ="dropdown-item">Careers</a></Link>                                                     </li>
@@ -68,19 +68,11 @@ const Nav = () => {
         </li>
           
       </ul>
-      <ul className ="navbar-nav mx-auhref">
-      {/* <li className ="nav-item">
-         
-         <Link className ="nav-link active" aria-current="page"  href ='/why-ariadne' >
-                               <h5 className = "mt-1" id="navbarDarkDropdownMenuLink">Lets talk</h5>
-                            </Link>
-       </li> */}
+      <ul className ="navbar-nav mx-auto">
+     
         <li className ="nav-item">
          
-         {/* <Link className ="nav-link active" aria-current="page"  href ='/why-ariadne' >
-                               <PersonOutlineIcon id="navbarDarkDropdownMenuLink" style = {{width: '100%'    }  } />
-                               
-                            </Link> */}
+        
        </li>
        <li className ="nav-item">
          
