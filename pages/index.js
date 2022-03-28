@@ -50,7 +50,7 @@ With Ariadne analytics, you can review your performance in real time.
         </div>
       <div className="col-lg-4">
        
-        <video src="/Videos/Hero2vid.mp4" autoPlay loop muted type = "videos/mp4" className='rounded shadow' style = {{width: '103%'}}/>
+        <video src="/Photos/h1.mp4" autoPlay loop muted type = "videos/mp4" className='rounded shadow' style = {{width: '103%'}}/>
         </div>
       </div>
       
