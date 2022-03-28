@@ -72,7 +72,7 @@ const Nav = () => {
       <li className ="nav-item">
          
          <Link className ="nav-link active" aria-current="page"  href ='/why-ariadne' >
-                               <h5 className = 'mt-1' style ={{fontFamily:'Poppins'}} id="navbarDarkDropdownMenuLink">Let's talk</h5>
+                               <h5 className = 'mt-1' id="navbarDarkDropdownMenuLink">Lets talk</h5>
                             </Link>
        </li>
         <li className ="nav-item">
