@@ -69,12 +69,12 @@ const Nav = () => {
           
       </ul>
       <ul className ="navbar-nav mx-auhref">
-      <li className ="nav-item">
+      {/* <li className ="nav-item">
          
          <Link className ="nav-link active" aria-current="page"  href ='/why-ariadne' >
                                <h5 className = "mt-1" id="navbarDarkDropdownMenuLink">Lets talk</h5>
                             </Link>
-       </li>
+       </li> */}
         <li className ="nav-item">
          
          {/* <Link className ="nav-link active" aria-current="page"  href ='/why-ariadne' >
