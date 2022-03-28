@@ -90,7 +90,7 @@ By enabling you to map and localize your products, Ariadne increases your effici
   </div>
       {/* Testimonials */}
 
-      <div class = 'text-center'>
+      <div className = 'text-center'>
           <h1>Get Started</h1>
           <p>Ariadne solution can be deployed on the premises just by plugging the devices in and requires no additional infrastructure.</p>
          </div>
