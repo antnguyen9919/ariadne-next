@@ -23,7 +23,7 @@ export default function Home() {
                 <Image src={screens} alt="screens" />
             </div>
             <div className="col-xl-4">
-              <p>Ariadne is considered to be the Google Analytics of the physical world. Ariadne helps you to analyze your visitors' behavior, it consults you on strategies, and provides you with recommendations for the future.</p>
+              <p>Ariadne is considered to be the Google Analytics of the physical world. Ariadne helps you to analyze your visitors behavior, it consults you on strategies, and provides you with recommendations for the future.</p>
               <p>
               Footfall (Total and by area)<br/>
 Dwell Time(Total and by area)<br/>
