@@ -1,0 +1,26 @@
+.container {
+  
+}
+
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+ 
+}
+.main p{
+  font-size: 20px;
+}
+@media (min-width:1300px){
+  .main p{
+    font-size: 1.5vw;
+  }
+} 
+
+
+
+@media (max-width: 600px) {
+  .main p{
+    font-size: 14px;
+  }
+}
