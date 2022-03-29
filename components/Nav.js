@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Asset16 from '../public/Asset16.png'
 import styles from '../styles/Nav.module.css'
 
-// import Asset16 from '/Asset16.png'
+
 const Nav = () => {
   return (
     <div className={styles.navMain}>

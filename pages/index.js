@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Hero from '../components/Hero'
 import screens from '../public/Photos/screens.png'
 
 
@@ -14,6 +15,7 @@ export default function Home() {
       </Head>
       
       <main >
+        <Hero/>
       <div className='text-center'>
         <h1>Unlock the value of your data and multiply your returns!</h1>
       </div>
