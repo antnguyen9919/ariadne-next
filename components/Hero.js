@@ -12,7 +12,7 @@ const Hero = () => {
 				<p className='my-2 lh-md ' >Turn your existing customer traffic into an additional source of revenue</p>
                         
 						<button id='hero-xxl-button' type="button" className=" mt-3 btn-danger"
-						><p className='my-1 mx-3 text-light fw-bold lh-md'>Let's Talk</p></button>
+						><p className='my-1 mx-3 text-light fw-bold lh-md'>Let&aposs Talk</p></button>
 					
 				</div>
 
